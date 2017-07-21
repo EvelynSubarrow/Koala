@@ -154,16 +154,17 @@ class Listener(stomp.ConnectionListener):
             except Exception as e:
                 log.error("Error saving file %s" % batch_last_iso)
 
+
     def on_error(self, headers, message):
         print('received an error "%s"' % message)
 
     def on_heartbeat_timeout(self):
-        pass
+        log.error("Heartbeat timeout")
+        self._mq.set_listener("koala", self)
+        connect_and_subscribe(self._mq)
 
     def on_disconnected(self):
         log.error("Disconnected")
-        self._mq.set_listener("koala", self)
-        connect_and_subscribe(self._mq)
 
 mq = stomp.Connection([('datafeeds.networkrail.co.uk', 61618)],
     keepalive=True, heartbeats=(10000, 5000))
