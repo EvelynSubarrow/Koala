@@ -1,0 +1,6 @@
+{
+    "username": "",
+    "password": "",
+    "identifier": "instancename-koala",
+    "subscribe": "/topic/TRAIN_MVT_ALL_TOC"
+}

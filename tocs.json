@@ -1,0 +1,187 @@
+{
+    "21": {
+        "atoc": "LE",
+        "name": "Abellio Greater Anglia",
+        "nr": "21"
+    },
+    "54": {
+        "atoc": "ZZ",
+        "name": "GB Railfreight",
+        "nr": "54"
+    },
+    "64": {
+        "atoc": "ME",
+        "name": "Merseyrail",
+        "nr": "64"
+    },
+    "34": {
+        "atoc": "ZZ",
+        "name": "Devon and Cornwall Railway",
+        "nr": "34"
+    },
+    "85": {
+        "atoc": "IL",
+        "name": "Island Lines",
+        "nr": "85"
+    },
+    "28": {
+        "atoc": "EM",
+        "name": "East Midlands Trains",
+        "nr": "28"
+    },
+    "35": {
+        "atoc": "CS",
+        "name": "Caledonian Sleeper",
+        "nr": "35"
+    },
+    "30": {
+        "atoc": "LO",
+        "name": "London Overground",
+        "nr": "30"
+    },
+    "84": {
+        "atoc": "SW",
+        "name": "South West Trains",
+        "nr": "84"
+    },
+    "79": {
+        "atoc": "CC",
+        "name": "c2c",
+        "nr": "79"
+    },
+    "_88": {
+        "atoc": "TL/GN",
+        "name": "Govia Thameslink/Great Northern",
+        "nr": "88"
+    },
+    "56": {
+        "atoc": "TW",
+        "name": "Nexus (Tyne & Wear Metro)",
+        "nr": "56"
+    },
+    "24": {
+        "atoc": "HC",
+        "name": "Heathrow Connect",
+        "nr": "24"
+    },
+    "55": {
+        "atoc": "HT",
+        "name": "First Hull Trains",
+        "nr": "55"
+    },
+    "60": {
+        "atoc": "SR",
+        "name": "First Scotrail ",
+        "nr": "60"
+    },
+    "25": {
+        "atoc": "GW",
+        "name": "First Great Western",
+        "nr": "25"
+    },
+    "29": {
+        "atoc": "LM",
+        "name": "London Midland",
+        "nr": "29"
+    },
+    "06": {
+        "atoc": "ES",
+        "name": "Eurostar",
+        "nr": "06"
+    },
+    "82": {
+        "atoc": "SN",
+        "name": "Southern",
+        "nr": "82"
+    },
+    "71": {
+        "atoc": "AW",
+        "name": "Arriva Trains Wales",
+        "nr": "71"
+    },
+    "26": {
+        "atoc": "FC",
+        "name": "First Capital Connect (defunct)",
+        "nr": "26"
+    },
+    "81": {
+        "atoc": "GX",
+        "name": "Gatwick Express",
+        "nr": "81"
+    },
+    "20": {
+        "atoc": "TP",
+        "name": "Transpennine Express",
+        "nr": "20"
+    },
+    "65": {
+        "atoc": "VT",
+        "name": "Virgin Trains",
+        "nr": "65"
+    },
+    "80": {
+        "atoc": "SE",
+        "name": "Southeastern",
+        "nr": "80"
+    },
+    "91": {
+        "atoc": "LT",
+        "name": "LUL Bakerloo Line",
+        "nr": "91"
+    },
+    "86": {
+        "atoc": "HX",
+        "name": "Heathrow Express",
+        "nr": "86"
+    },
+    "23": {
+        "atoc": "NT",
+        "name": "Northern Rail",
+        "nr": "23"
+    },
+    "90": {
+        "atoc": "LT",
+        "name": "LUL District Line - Wimbledon",
+        "nr": "90"
+    },
+    "74": {
+        "atoc": "CH",
+        "name": "Chiltern Railway",
+        "nr": "74"
+    },
+    "61": {
+        "atoc": "GR",
+        "name": "East Coast ",
+        "nr": "61"
+    },
+    "22": {
+        "atoc": "GC",
+        "name": "Grand Central",
+        "nr": "22"
+    },
+    "33": {
+        "atoc": "XR",
+        "name": "TfL Rail (will become Crossrail)",
+        "nr": "33"
+    },
+    "50": {
+        "atoc": "WR",
+        "name": "West Coast Railway Co.",
+        "nr": "50"
+    },
+    "51": {
+        "atoc": "NY",
+        "name": "North Yorkshire Moors Railway",
+        "nr": "51"
+    },
+    "27": {
+        "atoc": "XC",
+        "name": "CrossCountry",
+        "nr": "27"
+    },
+    "93": {
+        "atoc": "LT",
+        "name": "LUL District Line - Richmond",
+        "nr": "93"
+    }
+}

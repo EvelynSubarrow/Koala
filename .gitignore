@@ -1,0 +1,3 @@
+records/*.json
+config.json
+*.log
