@@ -7,6 +7,10 @@ Dependencies
 * Python 3.x
 * [stomp.py](https://pypi.python.org/pypi/stomp.py)
 
+Licence
+------
+GPLv3, because I'm lazy. 
+
 Config
 ------
 Move config.json.example to config.json
