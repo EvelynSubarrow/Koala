@@ -79,7 +79,7 @@ def connect_and_subscribe(mq):
             sleep(2)
     log.error("Connection attempts exhausted")
 
-class Listener(object):
+class Listener(stomp.ConnectionListener):
     def __init__(self, mq):
         self._mq = mq
 
