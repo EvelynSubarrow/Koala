@@ -158,7 +158,7 @@ class Listener(object):
         print('received an error "%s"' % message)
 
     def on_heartbeat_timeout(self):
-        log.error("Heartbeat timeout")
+        pass
 
     def on_disconnected(self):
         log.error("Disconnected")
