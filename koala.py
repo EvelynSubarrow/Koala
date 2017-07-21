@@ -159,9 +159,6 @@ class Listener(object):
 
     def on_heartbeat_timeout(self):
         log.error("Heartbeat timeout")
-        self._mq.set_listener("koala", self)
-        connect_and_subscribe(self._mq)
-            
 
     def on_disconnected(self):
         log.error("Disconnected")
