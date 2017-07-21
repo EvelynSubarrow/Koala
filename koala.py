@@ -167,7 +167,7 @@ class Listener(stomp.ConnectionListener):
         log.error("Disconnected")
 
 mq = stomp.Connection([('datafeeds.networkrail.co.uk', 61618)],
-    keepalive=True, heartbeats=(10000, 5000))
+    keepalive=True, heartbeats=(10000, 10000))
 
 mq.set_listener('koala', Listener(mq))
 connect_and_subscribe(mq)
